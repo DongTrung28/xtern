@@ -1,5 +1,4 @@
 Data Overview:
-<class 'pandas.core.frame.DataFrame'>
 RangeIndex: 5000 entries, 0 to 4999
 Data columns (total 5 columns):
  #   Column      Non-Null Count  Dtype 
