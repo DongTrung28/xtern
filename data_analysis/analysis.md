@@ -16,3 +16,9 @@ dtypes: int64(1), object(4)
 memory usage: 195.4+ KB
 None
 
+Visualisations:
+- 5 Distribution graphs
+
+Findings:
+
+
