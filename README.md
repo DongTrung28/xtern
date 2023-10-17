@@ -1,2 +1,0 @@
-# xtern
-xtern_project
